@@ -37,7 +37,7 @@ struct ContentView: View {
                 } //ZStack
                 
             } //List
-            .navigationBarTitle("Where are you?")
+            .navigationTitle("Where are you?")
             
         } //NavigationView
     
