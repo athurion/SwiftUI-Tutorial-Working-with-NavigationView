@@ -13,13 +13,13 @@ struct ContentView: View {
     var collections = [
 
             //Make sure to change the image name to the one that you'll be using
-            Collections(name: "Cafe", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Home", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Commute", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Travel", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Public", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Office", image: "", content: "Lorem ipsum dolor sit amet."),
-            Collections(name: "Conference", image: "", content: "Lorem ipsum dolor sit amet.")
+            Collections(name: "Cafe", image: "", content: "Cafe. Lorem ipsum dolor sit amet."),
+            Collections(name: "Home", image: "", content: "Home. Lorem ipsum dolor sit amet."),
+            Collections(name: "Commute", image: "", content: "Commute. Lorem ipsum dolor sit amet."),
+            Collections(name: "Travel", image: "", content: "Travel. Lorem ipsum dolor sit amet."),
+            Collections(name: "Public", image: "", content: "Public. Lorem ipsum dolor sit amet."),
+            Collections(name: "Office", image: "", content: "Office. Lorem ipsum dolor sit amet."),
+            Collections(name: "Conference", image: "", content: "Conference. Lorem ipsum dolor sit amet.")
             
     ]
     
